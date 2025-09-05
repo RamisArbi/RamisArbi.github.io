@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ramis Arbi / Postdoctoral Researcher"
+title                    : "Ramis Arbi"
 title_separator          : "-"
 name                     : &name "Ramis Arbi"
 description              : &description "I am an applied physicist working on thin film based sensors for ions. My experience includes self-assembly of inorganic nanoparticles, computational physics and chemistry, ceramics and a boatload of characterization methods including optical spectroscopy, interferometry, vibrational spectroscopy, force microscopy, electron microscopy and voltammetry. I have also gotten my hands dirty with automatic particle detection using computer vision programs in MATLAB and python and CAD for 3D printed parts."
@@ -22,14 +22,14 @@ repository               : "RamisArbi/RamisArbi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "IMG_3431.jpeg"
+  name             : "Ramis Arbi"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hamilton, Canada"
+  employer         : "McMaster University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arbir@mcmaster.ca" 
 
   # Academic websites
   academia         : # URL
