@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Engineering Physics, McMaster University (2022)
+* B.S. in Materials Science and Nanoengineering (2018)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024: Postdoctoral Researcher
+  * Engineering Physics, McMaster University
+  * Supervisor: Niko Hildebrandt
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2023-July 2024: Instructional Assistant 
+  * Engineering Physics, McMaster University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January - August 2023: Postdoctoral Researcher, 
+  * Department of Physics, Concordia University
+  * Supervisor: Ayse Turak
   
 Skills
 ======
