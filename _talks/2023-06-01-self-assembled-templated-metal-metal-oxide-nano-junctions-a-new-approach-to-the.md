@@ -6,6 +6,8 @@ permalink: "/publication/2023-06-01-self-assembled-templated-metal-metal-oxide-n
 excerpt: "Self-assembled spherical reverse micelles formed using diblock copolymers, specifically PS-b-P2VP, were used to grow SnO2 nanoparticles decorated with Au, exploiting the spontaneous reaction between SnCl2 and HAuCl4. The use of reverse..."
 date: 2023-06-01
 venue: "2023 Photonics North (PN)"
+location: "Montreal, Quebec, Canada"
+type: "Oral talk"
 paperurl: "https://doi.org/10.1109/PN58661.2023.10223142"
 bibtexurl: "/files/bibtex/self-assembled-templated-metal-metal-oxide-nano-junctions-a-new-approach-to-the.bib"
 citation: "Arbi, R., Khan, M.M., Lee, S.I., and Turak, A. (2023). “Self-assembled templated Metal/Metal Oxide nano-junctions: A new approach to the Purple of Cassius.” <i>2023 Photonics North (PN)</i>, 1–2."
