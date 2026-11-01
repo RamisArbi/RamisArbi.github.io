@@ -8,7 +8,6 @@ type: "Oral talk"
 
 ---
 
-## Abstract
 
 
 
