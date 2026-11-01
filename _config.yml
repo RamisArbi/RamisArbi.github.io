@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "MAD science"
 title_separator          : "-"
 name                     : &name "Ramis Arbi"
@@ -25,7 +25,7 @@ author:
   avatar           : "IMG_3431.jpeg"
   name             : "Ramis Arbi"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am an applied physicist working on thin film based sensors for ions. My experience includes self-assembly of inorganic nanoparticles, computational physics and chemistry, ceramics and a boatload of characterization methods including optical spectroscopy, interferometry, vibrational spectroscopy, force microscopy, electron microscopy and voltammetry. I have also gotten my hands dirty with automatic particle detection using computer vision programs in MATLAB and python and CAD for 3D printed parts."
   location         : "Hamilton, Canada"
   employer         : "McMaster University"
   #uri              : # URL

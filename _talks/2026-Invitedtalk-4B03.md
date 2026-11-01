@@ -1,6 +1,6 @@
 ---
 title: "An Engineer's Guide to the Sensor-alaxy"
-collection: guest_lectures
+collection: talks
 type: "Guest Lecture"
 permalink: /guest_lectures/2026-02-01-engineers-guide-to-the-sensor-alaxy
 venue: "ENGPHYS 4B03 – Biosensors: Fundamentals and Applications, McMaster University"

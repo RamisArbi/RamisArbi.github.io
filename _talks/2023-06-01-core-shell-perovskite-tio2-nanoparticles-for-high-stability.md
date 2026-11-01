@@ -1,7 +1,6 @@
 ---
 title: "Core-Shell Perovskite-TiO2 Nanoparticles for High Stability"
-collection: publications
-category: manuscripts
+collection: talks
 permalink: "/publication/2023-06-01-core-shell-perovskite-tio2-nanoparticles-for-high-stability"
 excerpt: "In recent years, hybrid halide perovskite nanostructures have gained traction for their optoelectronic properties. Their application, however, is hindered by their instability to moisture, oxygen, and UV radiation. To overcome this..."
 date: 2023-06-01

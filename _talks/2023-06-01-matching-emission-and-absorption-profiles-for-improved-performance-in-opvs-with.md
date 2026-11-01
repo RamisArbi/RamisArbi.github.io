@@ -1,7 +1,6 @@
 ---
 title: "Matching emission and absorption profiles for improved performance in OPVs with perovskite nanoparticle down-converters"
-collection: publications
-category: manuscripts
+ccollection: talks
 permalink: "/publication/2023-06-01-matching-emission-and-absorption-profiles-for-improved-performance-in-opvs-with"
 excerpt: "Due to the absorption-emission tunability by coexisting phases and cation replacement, perovskite nanoparticle synthesized by diblock copolymer micelles are down-conversion candidates for improved performance in organic photovoltaics by..."
 date: 2023-06-01

@@ -1,7 +1,6 @@
 ---
 title: "Phase changes in PS-b-P2VP reverse micelles by pressurized CO2 for nanostructure deposition"
-collection: publications
-category: manuscripts
+collection: talks
 permalink: "/publication/2020-01-01-phase-changes-in-ps-b-p2vp-reverse-micelles-by-pressurized-co2-for-nanostructure"
 excerpt: "Publication by Edward Zhu, Ramis Arbi, Ayse Turak."
 date: 2020-01-01

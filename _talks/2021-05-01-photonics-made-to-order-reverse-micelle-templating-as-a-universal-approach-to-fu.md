@@ -1,7 +1,6 @@
 ---
 title: "Photonics made to order: reverse micelle templating as a universal approach to functional nanoparticles"
-collection: publications
-category: manuscripts
+collection: talks
 permalink: "/publication/2021-05-01-photonics-made-to-order-reverse-micelle-templating-as-a-universal-approach-to-fu"
 excerpt: "A brief overview of reverse micelle templating as a universal route to solution processed nanoparticles for optical, optoelectronic and photonic applications. Understanding salt complexation, micellar stability, and nanoparticle spatial..."
 date: 2021-05-01

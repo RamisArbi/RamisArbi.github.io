@@ -1,6 +1,6 @@
 ---
 title: "Colloidal QDs and Their Applications"
-collection: guest_lectures
+collection: talks
 type: "Guest Lecture"
 permalink: /guest_lectures/2024-02-01-colloidal-qds-applications
 venue: "ENGPHYS 3L04 – Engineering Metrology: Fundamentals and Applications, McMaster University"

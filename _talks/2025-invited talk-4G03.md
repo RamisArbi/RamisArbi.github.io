@@ -1,6 +1,6 @@
 ---
 title: "Iron Oxide Nanoparticles for Water-Splitting"
-collection: guest_lectures
+collection: talks
 type: "Guest Lecture"
 permalink: /guest_lectures/2025-02-01-iron-oxide-nanoparticles-water-splitting
 venue: "MATLS 4G03 – Characterization of Nanoparticles, McMaster University"
