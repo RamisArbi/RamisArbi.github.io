@@ -5,6 +5,8 @@ date: "2025-01-01"
 level: "Undergraduate"
 location: "Hamilton, Ontario, Canada"
 role: "Sessional Faculty"
+collection = "teaching"
+type = "Undergraduate Course"
 ---
 
 
