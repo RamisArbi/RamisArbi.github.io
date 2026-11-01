@@ -11,43 +11,97 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Engineering Physics, McMaster University (2022)
-* B.S. in Materials Science and Nanoengineering (2018)
+* Ph.D in Engineering Physics, McMaster University, Hamilton, Ontario, Canada (2022)
+* B.S. in Materials Science and Nanoengineering, Sabanci University, Istanbul, Turkiye (2018)
 
 Work experience
 ======
 * July 2024: Postdoctoral Researcher
   * Engineering Physics, McMaster University
-  * Supervisor: Niko Hildebrandt
+  * Supervisor: Prof. Niko Hildebrandt
 
-* August 2023-July 2024: Instructional Assistant 
+* August 2023 - July 2024: Instructional Assistant 
   * Engineering Physics, McMaster University
 
 * January - August 2023: Postdoctoral Researcher, 
   * Department of Physics, Concordia University
-  * Supervisor: Ayse Turak
+  * Supervisor: Prof. Ayse Turak
   
-Skills
+Research Interests
 ======
-* 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+- Optical ion sensing
+- Thin-film optodes
+- Colloidal quantum dots
+- Nanoparticle self-assembly
+- Fluorescence spectroscopy
+- Water-quality monitoring
+- Semiconductor devices
+- Renewable energy materials
+- Computational materials science
+- Photoelectrochemical systems
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Guest Lectures
+======
+<ul>
+{% for post in site.guest_lectures reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+ 
+ Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  Conference Proceedings
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Skills
+======
+### Materials Synthesis
+
+- Colloidal nanoparticle synthesis
+- Surface functionalization
+- Thin-film fabrication
+- Ceramic processing
+
+### Characterization
+
+- UV-Vis spectroscopy
+- Fluorescence spectroscopy
+- Raman spectroscopy
+- FTIR spectroscopy
+- Atomic force microscopy (AFM)
+- Electron microscopy
+- Voltammetry
+- Interferometry
+
+### Computation
+
+- Python
+- MATLAB
+- Image analysis
+- Computer vision
+- Data analysis
+- Scientific visualization
+
+### Design & Fabrication
+
+- CAD
+- 3D printing
+- Semiconductor processing
+- Cleanroom techniques
   
 Service and leadership
 ======

@@ -5,10 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Courses Taught
+
 <ul>
 {% for post in site.teaching reversed %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </li>
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+## Guest Lectures
+
+<ul>
+{% for post in site.guest_lectures reversed %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>
