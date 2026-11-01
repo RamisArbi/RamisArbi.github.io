@@ -1,7 +1,7 @@
 ---
 title: "ENGPHYS 3PN4 – Semiconductor Junction Devices"
 institution: "McMaster University"
-date: "Winter 2025"
+date: "2025-01-01"
 level: "Undergraduate"
 role: "Sessional Faculty"
 ---
