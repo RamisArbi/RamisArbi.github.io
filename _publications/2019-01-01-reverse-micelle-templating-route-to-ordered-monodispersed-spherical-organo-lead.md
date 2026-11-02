@@ -5,7 +5,10 @@ category: manuscripts
 permalink: "/publication/2019-01-01-reverse-micelle-templating-route-to-ordered-monodispersed-spherical-organo-lead"
 date: 2019-01-01
 venue: "ACS Applied Nano Materials"
+excerpt:
 paperurl: "https://doi.org/10.1021/acsanm.9b00585"
+bibtexurl: "/files/bibtex/reverse-micelle-templating-route-to-ordered-monodispersed-spherical-organo-lead.bib"
+citation: "Hui, L.S., Beswick, C., Getachew, A., Heilbrunner, H., Liang, K., Hanta, G., Arbi, R., Munir, M., Dawood, H., Isik Goktas, N., Lapierre, R., Scharber, M.C., Sariciftci, N.S., and Turak, A. (2019). “Reverse Micelle Templating Route to Ordered Monodispersed Spherical Organo-Lead Halide Perovskite Nanoparticles for Light Emission.” <i>ACS Applied Nano Materials</i>."
 ---
 
 ## Abstract
