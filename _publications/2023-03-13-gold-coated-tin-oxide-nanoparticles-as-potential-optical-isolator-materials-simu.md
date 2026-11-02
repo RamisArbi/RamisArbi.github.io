@@ -3,7 +3,7 @@ title: "Gold-coated tin oxide nanoparticles as potential optical isolator materi
 collection: publications
 category: manuscripts
 permalink: "/publication/2023-03-13-gold-coated-tin-oxide-nanoparticles-as-potential-optical-isolator-materials-simu"
-excerpt: "On-chip optical isolation is currently one of the main challenges of photonic integrated circuits. Thus, there is a need for materials that exhibit both Faraday rotation and the ability to be scaled down to match the size constraints of..."
+excerpt: " "
 date: 2023-03-13
 venue: "Journal of Materials Science: Materials in Electronics"
 paperurl: "https://doi.org/10.1007/s10854-023-10134-1"

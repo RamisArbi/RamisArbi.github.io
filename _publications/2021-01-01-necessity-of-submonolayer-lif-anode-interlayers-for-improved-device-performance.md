@@ -3,7 +3,7 @@ title: "Necessity of submonolayer LiF anode interlayers for improved device perf
 collection: publications
 category: manuscripts
 permalink: "/publication/2021-01-01-necessity-of-submonolayer-lif-anode-interlayers-for-improved-device-performance"
-excerpt: "Lithium fluoride (LiF) is a widely used interlayer in organic optoelectronic devices, at both top and bottom electrodes, with various mechanisms proposed for its effectiveness at each interface. Here we examine the influence of LiF at..."
+excerpt: " "
 date: 2021-01-01
 venue: "Journal of Materials Science: Materials in Electronics"
 paperurl: "https://doi.org/10.1007/s10854-020-04889-0"

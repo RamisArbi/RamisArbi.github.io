@@ -3,7 +3,7 @@ title: "Utility of far-field effects from tip-assisted Raman spectroscopy for th
 collection: publications
 category: manuscripts
 permalink: "/publication/2021-01-01-utility-of-far-field-effects-from-tip-assisted-raman-spectroscopy-for-the-detect"
-excerpt: "A modified set-up for Raman spectroscopy is proposed to utilize an AFM probe in a regime beyond the dependence on near field optics. Possible mechanisms for the observed enhancement have been explored through comparisons to spectra from..."
+excerpt: " "
 date: 2021-01-01
 venue: "Physical Chemistry Chemical Physics"
 paperurl: "https://doi.org/10.1039/D1CP01399H"

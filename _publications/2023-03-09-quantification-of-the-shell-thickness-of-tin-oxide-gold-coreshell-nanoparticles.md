@@ -3,7 +3,7 @@ title: "Quantification of the Shell Thickness of Tin Oxide/Gold Core–Shell Nan
 collection: publications
 category: manuscripts
 permalink: "/publication/2023-03-09-quantification-of-the-shell-thickness-of-tin-oxide-gold-coreshell-nanoparticles"
-excerpt: "Encapsulation of nanoparticles (NP) by a shell material provides characteristics and properties not achievable by the individual materials of the core and the shell. Therefore, the characterization of morphology parameters of core–shell..."
+excerpt: " "
 date: 2023-03-09
 venue: "The Journal of Physical Chemistry C"
 paperurl: "https://doi.org/10.1021/acs.jpcc.2c07832"

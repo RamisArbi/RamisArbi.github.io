@@ -3,7 +3,7 @@ title: "Enhanced photoelectrochemical water splitting efficiency of hematite (α
 collection: publications
 category: manuscripts
 permalink: "/publication/2021-04-01-enhanced-photoelectrochemical-water-splitting-efficiency-of-hematite-fe2o3-based"
-excerpt: "To enhance the photo-electrochemical performance of hematite photo-electrode, we designed a phase-junction configuration of α and γ-Fe2O3. By inserting maghemite (γ-Fe2O3) particles synthesized by reverse micelle deposition, which is..."
+excerpt: " "
 date: 2021-04-01
 venue: "Journal of Photochemistry and Photobiology A: Chemistry"
 paperurl: "https://doi.org/10.1016/j.jphotochem.2021.113179"

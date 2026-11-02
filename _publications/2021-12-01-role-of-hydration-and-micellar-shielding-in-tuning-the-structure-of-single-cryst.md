@@ -3,7 +3,7 @@ title: "Role of hydration and micellar shielding in tuning the structure of sing
 collection: publications
 category: manuscripts
 permalink: "/publication/2021-12-01-role-of-hydration-and-micellar-shielding-in-tuning-the-structure-of-single-cryst"
-excerpt: "Abstract Different physicochemical properties of nanoscale iron oxides have been useful in enabling various applications. Desirable biochemical, magnetic, and catalytic properties result from the structure and size of the iron oxide..."
+excerpt: " "
 date: 2021-12-01
 venue: "Nano Select"
 paperurl: "https://doi.org/10.1002/nano.202100085"

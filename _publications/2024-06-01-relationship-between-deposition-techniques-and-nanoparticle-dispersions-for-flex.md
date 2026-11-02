@@ -3,7 +3,7 @@ title: "Relationship between deposition techniques and nanoparticle dispersions 
 collection: publications
 category: manuscripts
 permalink: "/publication/2024-06-01-relationship-between-deposition-techniques-and-nanoparticle-dispersions-for-flex"
-excerpt: "Reverse micelles composed of polystyrene-b-poly(2-vinylpyiridine) have been used to synthesize nanoparticles composed of a wide range of materials, including metals, metal oxides, dielectrics, semiconductors perovskites, and core–shell..."
+excerpt: " "
 date: 2024-06-01
 venue: "Flexible and Printed Electronics"
 paperurl: "https://doi.org/10.1088/2058-8585/ad4eee"

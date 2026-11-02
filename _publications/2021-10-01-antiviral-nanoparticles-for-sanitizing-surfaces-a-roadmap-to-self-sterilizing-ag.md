@@ -3,7 +3,7 @@ title: "Antiviral nanoparticles for sanitizing surfaces: A roadmap to self-steri
 collection: publications
 category: manuscripts
 permalink: "/publication/2021-10-01-antiviral-nanoparticles-for-sanitizing-surfaces-a-roadmap-to-self-sterilizing-ag"
-excerpt: "Nanoparticles provide new opportunities in merging therapeutics and new materials, with current research efforts just beginning to scratch the surface of their diverse benefits and potential applications. One such application, the use..."
+excerpt: " "
 date: 2021-10-01
 venue: "Nano Today"
 paperurl: "https://doi.org/10.1016/j.nantod.2021.101267"

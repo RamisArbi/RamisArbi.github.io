@@ -3,7 +3,7 @@ title: "Enhanced Stokes Shift and Phase Stability by Cosynthesizing Perovskite N
 collection: publications
 category: manuscripts
 permalink: "/publication/2022-12-01-enhanced-stokes-shift-and-phase-stability-by-cosynthesizing-perovskite-nanoparti"
-excerpt: "Herein, diblock copolymer reverse micelle templating (RMD) is used to control the reaction kinetics of metal halide hybrid perovskites formation to fabricate systems showing dual-phase emission. Through micelle templating, desired..."
+excerpt: " "
 date: 2022-12-01
 venue: "Advanced Photonics Research"
 paperurl: "https://doi.org/10.1002/adpr.202100372"

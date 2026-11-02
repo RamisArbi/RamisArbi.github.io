@@ -3,7 +3,7 @@ title: "Uncoupling nanoparticle geometry from material properties for improved h
 collection: publications
 category: manuscripts
 permalink: "/publication/2023-05-06-uncoupling-nanoparticle-geometry-from-material-properties-for-improved-hole-inje"
-excerpt: "We demonstrate enhanced hole injection into organic hole transport layers (HTL) from submonolayer NiOx, SnOx, and LiF nanoparticle hole injection layers (HIL) produced using reverse micelle templating. Decoration of ITO with..."
+excerpt: " "
 date: 2023-05-06
 venue: "Journal of Materials Science: Materials in Electronics"
 paperurl: "https://doi.org/10.1007/s10854-023-10370-5"

@@ -3,7 +3,7 @@ title: "Leveraging Bromine-Induced Large Stokes Shift in Pyrrolidinium Perovskit
 collection: publications
 category: manuscripts
 permalink: "/publication/2024-03-08-leveraging-bromine-induced-large-stokes-shift-in-pyrrolidinium-perovskite-nanopa"
-excerpt: "Using the reverse micelle synthesis route, polystyrene-b-2vinylpyridine (PS-b-P2VP) diblock copolymers are used to synthesize hybrid perovskite nanoparticles with an ionic organic liquid five-membered heterocycle cation, pyrrolidinium..."
+excerpt: " "
 date: 2024-03-08
 venue: "ACS Applied Nano Materials"
 paperurl: "https://doi.org/10.1021/acsanm.3c06212"
