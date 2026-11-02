@@ -2,7 +2,6 @@
 title: "Modified Tip-enhanced Raman spectroscopy to detect a monolayer of Reverse Micelles"
 collection: talks
 permalink: "/publication/2020-01-01-modified-tip-enhanced-raman-spectroscopy-to-detect-a-monolayer-of-reverse-micell"
-excerpt: "Publication by Lok Shu Hui, Ramis Imran Arbi, Ayse Turak."
 date: 2020-01-01
 venue: "2020 Photonics North (PN)"
 location: "Niagara Falls, Ontario, Canada"

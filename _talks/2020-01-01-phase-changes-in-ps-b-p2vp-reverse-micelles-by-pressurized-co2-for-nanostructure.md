@@ -2,7 +2,6 @@
 title: "Phase changes in PS-b-P2VP reverse micelles by pressurized CO2 for nanostructure deposition"
 collection: talks
 permalink: "/publication/2020-01-01-phase-changes-in-ps-b-p2vp-reverse-micelles-by-pressurized-co2-for-nanostructure"
-excerpt: "Publication by Edward Zhu, Ramis Arbi, Ayse Turak."
 date: 2020-01-01
 venue: "2020 Photonics North (PN)"
 location: "Niagara Falls, Ontario, Canada"
