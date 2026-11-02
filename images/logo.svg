@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 114.79 84">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 114.79 84">
   <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
   <defs>
     <style>
       .st0, .st1 {
-        isolation: isolate;
+        fill: none;
       }
 
       .st1 {
-        font-family: Poppins-SemiBold, Poppins;
-        font-size: 24px;
-        font-weight: 600;
         stroke: aqua;
         stroke-miterlimit: 10;
         stroke-width: .5px;
       }
+
+      .st1, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st1, .st3 {
+        font-family: Poppins-SemiBold, Poppins;
+        font-size: 24px;
+        font-weight: 600;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
     </style>
+    <clipPath id="clippath">
+      <rect class="st0" x="10.59" y="21.43" width="95.25" height="42.9"/>
+    </clipPath>
   </defs>
-  <g class="st0">
-    <text class="st1" transform="translate(27.18 34.38)"><tspan x="0" y="0">MAD </tspan></text>
-    <text class="st1" transform="translate(10.19 63.18)"><tspan x="0" y="0">Science</tspan></text>
+  <g class="st4">
+    <g class="st2">
+      <text class="st3" transform="translate(27.95 42)"><tspan x="0" y="0">MAD</tspan></text>
+      <text class="st1" transform="translate(27.95 42)"><tspan x="0" y="0">MAD</tspan></text>
+    </g>
+    <g class="st2">
+      <text class="st3" transform="translate(10.19 63.18)"><tspan x="0" y="0">Science</tspan></text>
+      <text class="st1" transform="translate(10.19 63.18)"><tspan x="0" y="0">Science</tspan></text>
+    </g>
   </g>
 </svg>
