@@ -7,7 +7,6 @@ excerpt: " "
 date: 2023-01-01
 venue: "Materials Today Chemistry"
 paperurl: "https://doi.org/10.1016/j.mtchem.2023.101732"
-bibtexurl: "/files/bibtex/effectivity-of-plasma-etching-on-template-removal-of-reverse-micelle-deposited-n.bib"
 citation: "Arbi, R., Munir, M., Hoyle, D., Dogel, S., and Turak, A. (2023). “Effectivity of plasma etching on template removal of reverse micelle deposited nanoparticles.” <i>Materials Today Chemistry</i>, 34, 101732."
 ---
 

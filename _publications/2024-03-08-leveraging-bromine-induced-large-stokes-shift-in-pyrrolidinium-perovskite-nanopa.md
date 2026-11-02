@@ -7,7 +7,6 @@ excerpt: " "
 date: 2024-03-08
 venue: "ACS Applied Nano Materials"
 paperurl: "https://doi.org/10.1021/acsanm.3c06212"
-bibtexurl: "/files/bibtex/leveraging-bromine-induced-large-stokes-shift-in-pyrrolidinium-perovskite-nanopa.bib"
 citation: "Munir, M., Arbi, R., Tan, J., Oliveira, P., Lee, S.I., Scharber, M.C., Sariciftci, N.S., Xu, F., Xu, G., and Turak, A. (2024). “Leveraging Bromine-Induced Large Stokes Shift in Pyrrolidinium Perovskite Nanoparticles for Improved Organic Photovoltaic Performance.” <i>ACS Applied Nano Materials</i>, 7(5), 5405–5413."
 ---
 

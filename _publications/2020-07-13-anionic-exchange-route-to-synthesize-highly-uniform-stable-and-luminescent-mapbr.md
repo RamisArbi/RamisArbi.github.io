@@ -7,7 +7,6 @@ excerpt: " "
 date: 2020-07-13
 venue: "OSA Advanced Photonics Congress (AP) 2020 (IPR, NP, NOMA, Networks, PVLED, PSC, SPPCom, SOF) (2020), paper PvTu3G.5"
 paperurl: "https://doi.org/10.1364/PVLED.2020.PvTu3G.5"
-bibtexurl: "/files/bibtex/anionic-exchange-route-to-synthesize-highly-uniform-stable-and-luminescent-mapbr.bib"
 citation: "Munir, M., Arbi, R., Scharber, M.C., Salinas, Y., Sariciftci, N.S., and Turak, A. (2020). “Anionic exchange route to synthesize highly uniform, stable and luminescent MAPBr nanoparticles.” <i>OSA Advanced Photonics Congress (AP) 2020 (IPR, NP, NOMA, Networks, PVLED, PSC, SPPCom, SOF) (2020), paper PvTu3G.5</i>, PvTu3G.5."
 ---
 

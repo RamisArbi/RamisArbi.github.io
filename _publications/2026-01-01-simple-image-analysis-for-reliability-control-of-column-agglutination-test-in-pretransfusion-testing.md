@@ -7,7 +7,6 @@ excerpt: " "
 date: 2026-07-05
 venue: "Transfusion Medicine"
 paperurl: "https://doi.org/10.1111/tme.70103"
-bibtexurl: "/files/bibtex/simple-image-analysis-for-reliability-control-of-column-agglutination-test-in-pretransfusion-testing.bib"
 citation: "Pedersen, M.T., Rajaguru, T., Ashong, A., Arbi, R., Hildebrandt, N., and Skovsted, T. (2026). “Simple image analysis for reliability control of column agglutination test in pretransfusion testing.” <i>Transfusion Medicine</i>. https://doi.org/10.1111/tme.70103."
 ---
 

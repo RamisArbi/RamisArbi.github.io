@@ -7,7 +7,6 @@ excerpt: " "
 date: 2023-05-06
 venue: "Journal of Materials Science: Materials in Electronics"
 paperurl: "https://doi.org/10.1007/s10854-023-10370-5"
-bibtexurl: "/files/bibtex/uncoupling-nanoparticle-geometry-from-material-properties-for-improved-hole-inje.bib"
 citation: "Lee, S.I., Munir, M., Arbi, R., Oliveira, P., Lee, S.J., Lim, J.H., Kim, W.Y., and Turak, A. (2023). “Uncoupling nanoparticle geometry from material properties for improved hole injection at submonolayer nanoparticle electrode interlayers in organic hole-only devices.” <i>Journal of Materials Science: Materials in Electronics</i>, 34(13), 1101."
 ---
 

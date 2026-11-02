@@ -7,7 +7,6 @@ excerpt: " "
 date: 2021-10-01
 venue: "Nano Today"
 paperurl: "https://doi.org/10.1016/j.nantod.2021.101267"
-bibtexurl: "/files/bibtex/antiviral-nanoparticles-for-sanitizing-surfaces-a-roadmap-to-self-sterilizing-ag.bib"
 citation: "Lin, N., Verma, D., Saini, N., Arbi, R., Munir, M., Jovic, M., and Turak, A. (2021). “Antiviral nanoparticles for sanitizing surfaces: A roadmap to self-sterilizing against COVID-19.” <i>Nano Today</i>, 40, 101267."
 ---
 

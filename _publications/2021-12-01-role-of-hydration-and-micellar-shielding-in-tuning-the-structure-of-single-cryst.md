@@ -7,7 +7,6 @@ excerpt: " "
 date: 2021-12-01
 venue: "Nano Select"
 paperurl: "https://doi.org/10.1002/nano.202100085"
-bibtexurl: "/files/bibtex/role-of-hydration-and-micellar-shielding-in-tuning-the-structure-of-single-cryst.bib"
 citation: "Arbi, R., Ibrahim, A., Goldring-Vandergeest, L., Liang, K., Hanta, G., Hui, L.S., and Turak, A. (2021). “Role of hydration and micellar shielding in tuning the structure of single crystalline iron oxide nanoparticles for designer applications.” <i>Nano Select</i>, 2(12), 2419–2431."
 ---
 

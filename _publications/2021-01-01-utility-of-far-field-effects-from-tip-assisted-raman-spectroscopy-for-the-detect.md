@@ -7,7 +7,6 @@ excerpt: " "
 date: 2021-01-01
 venue: "Physical Chemistry Chemical Physics"
 paperurl: "https://doi.org/10.1039/D1CP01399H"
-bibtexurl: "/files/bibtex/utility-of-far-field-effects-from-tip-assisted-raman-spectroscopy-for-the-detect.bib"
 citation: "Arbi, R., Hui, L.S., Dittrich, M., and Turak, A. (2021). “Utility of far-field effects from tip-assisted Raman spectroscopy for the detection of a monolayer of diblock copolymer reverse micelles for nanolithography.” <i>Physical Chemistry Chemical Physics</i>, 23(18), 11065–11074."
 ---
 

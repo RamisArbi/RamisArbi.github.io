@@ -7,7 +7,6 @@ excerpt: " "
 date: 2022-12-01
 venue: "Advanced Photonics Research"
 paperurl: "https://doi.org/10.1002/adpr.202100372"
-bibtexurl: "/files/bibtex/enhanced-stokes-shift-and-phase-stability-by-cosynthesizing-perovskite-nanoparti.bib"
 citation: "Munir, M., Tan, J., Arbi, R., Oliveira, P., Leeb, E., Salinas, Y., Scharber, M.C., Sariciftci, N.S., and Turak, A. (2022). “Enhanced Stokes Shift and Phase Stability by Cosynthesizing Perovskite Nanoparticles (MAPbI3/MAPbBr3) in a Single Solution.” <i>Advanced Photonics Research</i>, n/a, 2100372."
 ---
 

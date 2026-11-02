@@ -7,7 +7,6 @@ excerpt: " "
 date: 2021-01-01
 venue: "Journal of Materials Science: Materials in Electronics"
 paperurl: "https://doi.org/10.1007/s10854-020-04889-0"
-bibtexurl: "/files/bibtex/necessity-of-submonolayer-lif-anode-interlayers-for-improved-device-performance.bib"
 citation: "Lee, S.I., Liang, K., Hui, L.S., Arbi, R., Munir, M., Lee, S.J., Kim, J.W., Kim, K.J., Kim, W.Y., and Turak, A. (2021). “Necessity of submonolayer LiF anode interlayers for improved device performance in blue phosphorescent OLEDs.” <i>Journal of Materials Science: Materials in Electronics</i>, 32(1), 1161–1177."
 ---
 

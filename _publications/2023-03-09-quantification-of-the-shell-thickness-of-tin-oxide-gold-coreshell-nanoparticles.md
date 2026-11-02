@@ -7,7 +7,6 @@ excerpt: " "
 date: 2023-03-09
 venue: "The Journal of Physical Chemistry C"
 paperurl: "https://doi.org/10.1021/acs.jpcc.2c07832"
-bibtexurl: "/files/bibtex/quantification-of-the-shell-thickness-of-tin-oxide-gold-coreshell-nanoparticles.bib"
 citation: "Garza, F.J., Arbi, R., Munir, M., Lim, J., and Turak, A. (2023). “Quantification of the Shell Thickness of Tin Oxide/Gold Core–Shell Nanoparticles by X-ray Photoelectron Spectroscopy.” <i>The Journal of Physical Chemistry C</i>, 127(9), 4594–4600."
 ---
 

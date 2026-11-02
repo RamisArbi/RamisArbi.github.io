@@ -7,7 +7,6 @@ excerpt: " "
 date: 2023-03-13
 venue: "Journal of Materials Science: Materials in Electronics"
 paperurl: "https://doi.org/10.1007/s10854-023-10134-1"
-bibtexurl: "/files/bibtex/gold-coated-tin-oxide-nanoparticles-as-potential-optical-isolator-materials-simu.bib"
 citation: "Lewis, K., Arbi, R., Ibrahim, A., Smith, E., Olivera, P., Garza, F., and Turak, A. (2023). “Gold-coated tin oxide nanoparticles as potential optical isolator materials: simulation of absorption and Faraday rotation and comparison with micelle templated core-shell nanoparticles.” <i>Journal of Materials Science: Materials in Electronics</i>, 34(8), 750."
 ---
 

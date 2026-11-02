@@ -7,7 +7,6 @@ excerpt: " "
 date: 2024-06-01
 venue: "Flexible and Printed Electronics"
 paperurl: "https://doi.org/10.1088/2058-8585/ad4eee"
-bibtexurl: "/files/bibtex/relationship-between-deposition-techniques-and-nanoparticle-dispersions-for-flex.bib"
 citation: "Oliveira, P.Q., Arbi, R., Munir, M., Patil, L., and Turak, A.Z. (2024). “Relationship between deposition techniques and nanoparticle dispersions for flexible and printed electronics.” <i>Flexible and Printed Electronics</i>, 9(2), 025019."
 ---
 

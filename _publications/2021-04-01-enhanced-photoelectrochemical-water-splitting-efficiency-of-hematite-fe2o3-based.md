@@ -7,7 +7,6 @@ excerpt: " "
 date: 2021-04-01
 venue: "Journal of Photochemistry and Photobiology A: Chemistry"
 paperurl: "https://doi.org/10.1016/j.jphotochem.2021.113179"
-bibtexurl: "/files/bibtex/enhanced-photoelectrochemical-water-splitting-efficiency-of-hematite-fe2o3-based.bib"
 citation: "Tokubuchi, T., Arbi, R.I., Zhenhua, P., Katayama, K., Turak, A., and Sohn, W.Y. (2021). “Enhanced photoelectrochemical water splitting efficiency of hematite (α-Fe2O3)-Based photoelectrode by the introduction of maghemite (γ-Fe2O3) nanoparticles.” <i>Journal of Photochemistry and Photobiology A: Chemistry</i>, 410, 113179."
 ---
 
