@@ -57,19 +57,19 @@ Guest Lectures
  
 Thesis
 ======
- {% for post in site.publications reversed %}
+ <ul>{% for post in site.publications reversed %}
   {% if post.category == "theses" %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}
+{% endfor %}</ul>
 
 Publications
 ======
- {% for post in site.publications reversed %}
+ <ul>{% for post in site.publications reversed %}
   {% if post.category == "manuscripts" %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}
+{% endfor %}</ul>
   
 Conference Proceedings
 ======
